@@ -77,3 +77,8 @@ gem "sass-rails"
 
 #devise
 gem 'devise'
+
+gem 'devise-bootstrap-views'
+
+
+
